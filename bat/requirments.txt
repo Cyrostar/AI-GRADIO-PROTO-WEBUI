@@ -1,0 +1,53 @@
+gradio
+
+# ============================
+# RAG Orchestration
+# ============================
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-huggingface
+sentence-transformers
+
+# ============================
+# Deep Learning & Transformers
+# ============================
+huggingface_hub
+hf-xet
+torch==2.13.0
+torchaudio
+torchvision
+transformers
+tokenizers
+requests
+accelerate
+safetensors
+bitsandbytes
+gguf
+numpy
+triton-windows>=3.7.1.post27
+
+# ============================
+# Datasets & Data Loading
+# ============================
+pypdf
+
+# ============================
+# Image
+# ============================
+pillow
+diffusers
+einops
+opencv-python
+
+# ============================
+# Audio
+# ============================
+soundfile
+
+# ============================
+# Monitoring
+# ============================
+psutil
+nvidia-ml-py
